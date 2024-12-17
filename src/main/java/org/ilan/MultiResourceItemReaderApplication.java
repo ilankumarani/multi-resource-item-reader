@@ -1,4 +1,4 @@
-package org.ilan.multi_resource_item_reader;
+package org.ilan;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
